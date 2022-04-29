@@ -4,3 +4,6 @@ I will not be releasing the full code because this is an application I hope to p
 but for now here is a glimpse of the android application
 This app is meant for digital media and digital art creators who wish to sell their
 work and gain high exposure for the content that they release!
+
+
+I have a .mp4 called "Viewpager" uploaded as an exclusive preview of my GiftsOfTheUnknown application.
